@@ -10,7 +10,8 @@ This project investigates epidemiological patterns across continents, focusing o
 
 ### Key Objectives
 * Identify geographic clusters exhibiting the highest average BMI and systolic blood pressure.
-* Analyze demographic disparities between men and women regarding cardiovascular markers.
+  ![Global Health Dashboard Preview](BMI-preview.png)
+* Analyse demographic disparities between men and women regarding cardiovascular markers.
 * Compare continental mortality patterns for lung, stomach, and liver cancers.
 * Provide an interactive, responsive dashboard for cross-metric filtering.
 
@@ -20,7 +21,7 @@ This project investigates epidemiological patterns across continents, focusing o
 
 The Tableau workbook (`Day_2_Task_2_Health_Survey (1).twb`) contains an integrated dashboard (`Dashboard 1`) designed for desktop and mobile layouts, comprising four core analytical views:
 
-| Worksheet | Chart Type | Key Metrics Analyzed | Filters / Interactivity |
+| Worksheet | Chart Type | Key Metrics Analysed | Filters / Interactivity |
 | :--- | :--- | :--- | :--- |
 | **Top 10 Countries by BMI** | Horizontal Bar Chart | `SUM(BMI)` segmented by `Gender` | Filtered to Top 10 countries; gender color-encoded |
 | **Highest 20 Blood Pressure Countries** | Geographic Symbol Map | Multipolygon map with generated lat/long | Top 20 filter, gender breakdown, map tooltip cards |
