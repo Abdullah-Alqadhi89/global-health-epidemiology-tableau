@@ -27,6 +27,7 @@ The Tableau workbook (`Day_2_Task_2_Health_Survey (1).twb`) contains an integrat
 | **Cancer Analysis Per Continent** | Multi-Measure Circle Plot | Liver, Lung, and Stomach Cancer rates | Categorical continent filter, measure color palette |
 | **Cholesterol Rates Per Continent** | Area / Trend Distribution | Total Cholesterol by Continent & Year | Interactive Year slider (1990–2008), gender breakdown |
 
+![Global Health Dashboard Preview](dashboard-preview.png)
 ---
 
 ## 📁 Dataset Details
