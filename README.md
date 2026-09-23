@@ -10,7 +10,6 @@ This project investigates epidemiological patterns across continents, focusing o
 
 ### Key Objectives
 * Identify geographic clusters exhibiting the highest average BMI and systolic blood pressure.
-  ![Global Health Dashboard Preview](BMI-preview.png)
 * Analyse demographic disparities between men and women regarding cardiovascular markers.
 * Compare continental mortality patterns for lung, stomach, and liver cancers.
 * Provide an interactive, responsive dashboard for cross-metric filtering.
