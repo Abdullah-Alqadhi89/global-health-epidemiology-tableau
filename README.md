@@ -1,4 +1,4 @@
-# 🌍 Global Health & Epidemiological Trends (Tableau Analytics)
+# 🌍 Global Health Trends (Tableau Analytics)
 
 An interactive Tableau data visualization project exploring global public health indicators, physiological risk factors, and cancer incidence across 159+ countries between 1990 and 2008, using curated data from the Gapminder Foundation.
 
